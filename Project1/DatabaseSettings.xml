@@ -3,5 +3,5 @@
   <ServerVersion>Sql2014</ServerVersion>
   <ServerName>N05F4R42VS\SQL2014</ServerName>
   <DatabaseName>aw2014Git</DatabaseName>
-  <DatabaseInformation Version="3" />
+  <DatabaseInformation Version="4" />
 </DatabaseSettings>
